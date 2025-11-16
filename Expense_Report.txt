@@ -1,0 +1,16 @@
+******** SMART EXPENSE ANALYZER REPORT ********
+
+Total Spent: ₹3317
+Highest Spending Category: Utilities
+
+----- Category Wise Breakdown -----
+Utilities       : ₹1639
+Shopping        : ₹899
+Food            : ₹749
+Transport       : ₹30
+
+Predicted Monthly Expense: ₹16585.0
+
+----- AI Suggestions -----
+- Utility bills seem heavy. Review usage or switch cheaper plans.
+- ⚠ Warning: You may cross ₹10,000 this month!
