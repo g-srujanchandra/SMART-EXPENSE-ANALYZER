@@ -1,4 +1,5 @@
-#Smart Expense Analyzer & Budget Advisor
+Smart Expense Analyzer & Budget Advisor
+===
 A simple yet powerful Python-based Expense Analyzer that automatically categorizes your expenses, predicts your monthly spending, identifies your highest spending category, and provides AI-based budget suggestions.
 ________________________________________
 ##🚀 Introduction:
