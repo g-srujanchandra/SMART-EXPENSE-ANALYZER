@@ -1,7 +1,7 @@
-Smart Expense Analyzer & Budget Advisor
+#Smart Expense Analyzer & Budget Advisor
 A simple yet powerful Python-based Expense Analyzer that automatically categorizes your expenses, predicts your monthly spending, identifies your highest spending category, and provides AI-based budget suggestions.
 ________________________________________
-🚀 Introduction:
+##🚀 Introduction:
 Managing expenses manually can be time-consuming and inaccurate.
 The Smart Expense Analyzer & Budget Advisor solves this by:
 •	Reading all your expenses from a CSV file
@@ -12,7 +12,7 @@ The Smart Expense Analyzer & Budget Advisor solves this by:
 •	Generating a ready-to-share text report
 This project is ideal for beginners learning Python, Pandas, and data processing.
 ________________________________________
-💡 How This Project Helps
+##💡 How This Project Helps
 ✔ Helps track and understand your spending behavior
 ✔ Automatically categorizes every transaction
 ✔ Shows category-wise breakdown
@@ -21,7 +21,7 @@ ________________________________________
 ✔ Generates a clean report automatically
 ✔ Can be extended with graphs, dashboards, or a GUI
 ________________________________________
-📁 Project Structure:
+##📁 Project Structure:
 Smart Expense Analyzer/
 │
 ├── expenses.csv          # Your input file
@@ -29,7 +29,7 @@ Smart Expense Analyzer/
 ├── Expense_Report.txt    # Auto-generated report
 └── README.md             # Documentation
 ________________________________________
-🧠 How Monthly Expense Is Calculated:
+##🧠 How Monthly Expense Is Calculated:
 The model does NOT use direct monthly totals.
 Instead, it uses:
 Predicted Monthly Expense = Average Daily Expense × 30
