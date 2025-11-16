@@ -38,4 +38,12 @@ ________________________________________
 The model does NOT use direct monthly totals.  
 Instead, it uses:  
 Predicted Monthly Expense = Average Daily Expense × 30  
-This creates a rough forecast of your expected spending in a 30-day month.  
+This creates a rough forecast of your expected spending in a 30-day month. 
+________________________________________
+📝 How to Run
+---
+Install pandas(if not installed): pip install pandas  
+Place your expenses.csv in the same folder.  
+Run: code.py  
+Check the generated file:  
+👉 Expense_Report.txt
